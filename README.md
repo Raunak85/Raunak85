@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raunak85
-- Pursuing MCA from LPU
+-  Pursuing MCA from LPU
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java program
 - 💞️ I’m looking to collaborate on ...coding
